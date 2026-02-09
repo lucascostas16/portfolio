@@ -23,7 +23,7 @@ Design of a financial reporting pack including P&L, budget vs actual analysis, K
 
 **Tools:** Power BI · Excel · SQL  
 **Status:** Initial version under development  
-➡️ Repository: `fpna-reporting`
+➡️ Repository: https://github.com/lucascostas16/fpna-reporting
 
 ---
 
@@ -33,7 +33,7 @@ Analysis of financial assets including returns, volatility, correlations and bas
 
 **Tools:** Python · Excel  
 **Status:** Initial version under development   
-➡️ Repository: `financial-risk-analysis`
+➡️ Repository: https://github.com/lucascostas16/financial-risk-analysis
 
 ---
 
@@ -43,7 +43,7 @@ Practical SQL exercises focused on data extraction, transformation and analysis 
 
 **Tools:** SQL Server  
 **Status:** Initial version under development   
-➡️ Repository: `sql-case-studies`
+➡️ Repository: https://github.com/lucascostas16/sql-case-studies
 
 ---
 
