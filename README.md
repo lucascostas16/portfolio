@@ -22,7 +22,7 @@ The objective is to demonstrate analytical thinking, financial understanding and
 Design of a financial reporting pack including P&L, budget vs actual analysis, KPIs and variance explanations.
 
 **Tools:** Power BI · Excel · SQL  
-**Status:** In progress  
+**Status:** Initial version under development  
 ➡️ Repository: `fpna-reporting`
 
 ---
@@ -32,7 +32,7 @@ Design of a financial reporting pack including P&L, budget vs actual analysis, K
 Analysis of financial assets including returns, volatility, correlations and basic risk metrics to support investment decisions.
 
 **Tools:** Python · Excel  
-**Status:** In progress  
+**Status:** Initial version under development   
 ➡️ Repository: `financial-risk-analysis`
 
 ---
@@ -42,7 +42,7 @@ Analysis of financial assets including returns, volatility, correlations and bas
 Practical SQL exercises focused on data extraction, transformation and analysis for business and financial use cases.
 
 **Tools:** SQL Server  
-**Status:** In progress  
+**Status:** Initial version under development   
 ➡️ Repository: `sql-case-studies`
 
 ---
